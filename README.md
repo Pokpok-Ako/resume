@@ -12,7 +12,7 @@ Soft Skills: Hardworking, diligent in completing tasks, quick learner
 
 Education
 Bachelor of Science in Computer Science  
-University Name – 2022–2025
+CVSu Imus – 2022–2025
 
 Projects
 What to do? 
@@ -26,4 +26,4 @@ An application where patients can book appointments with doctors, and doctors ca
 
 Experience
 Divimall Kawit, Cavite - May 2022 to September 2022
-Sales Assistant - Assisted customers with their purchases, provided product information, and ensured a positive shopping experience. Maintained store organization and supported sales targets through excellent     customer service.
+- Sales Assistant, Assisted customers with their purchases, provided product information, and ensured a positive shopping experience. Maintained store organization and supported sales targets through excellent     customer service.
