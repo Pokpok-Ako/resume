@@ -79,7 +79,7 @@ Here are some of the certifications and webinars I’ve completed:
 
 - 📧 Email: **leorenxz.1@gmail.com**
 - 👤 Facebook: [Raphael Lagbo](https://www.facebook.com/share/1Hxm6m6JKf/)
-- 💻 GitHub: [Pokpok-Ako](https://github.com/Pokpok-Ako)
+- 💻 GitHub: [Raphaellagbo](https://github.com/Pokpok-Ako)
 
 ---
 
