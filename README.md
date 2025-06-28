@@ -1,30 +1,83 @@
-Email: leorenxz.1@gmail.com
-github: Pokpok-Ako
-fb: Raphael Lagbo (https://www.facebook.com/share/1Hxm6m6JKf/)
+<h1 align="center">Hi 👋, I'm Raphael Lagbo</h1>
+<h3 align="center">3rd Year BSCS Student at Cavite State University - Imus Campus</h3>
 
-Summary
-I am a 3rd year Bachelor of Science in Computer Science (BSCS) student at Cavite State University - Imus Campus, 23 years old. Although I am still learning and not yet very skilled in coding, I am hardworking and dedicated to completing any tasks assigned to me. I have a basic knowledge of Excel and am eager to improve my skills further. My goal is to become a data analyst or work in any field related to my course, where I can apply and grow my knowledge.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pokpok-Ako&label=Profile%20views&color=0e75b6&style=flat" alt="Pokpok-Ako" />
+</p>
 
-Skills
-Programming Languages: Basic knowledge of HTML, CSS, JavaScript, Python, Java, 
-Technologies/Tools: Familiar with Firebase
-Software: Basic Microsoft Excel skills
-Soft Skills: Hardworking, diligent in completing tasks, quick learner
+---
 
-Education
-Bachelor of Science in Computer Science  
-CVSu Imus – 2022–2025
+### 🧠 About Me
 
-Projects
-What to do? 
-A note-taking application that allows users to add tasks, set reminders, and receive notifications to help manage their daily activities efficiently.
+🎓 I'm currently a 3rd-year BS Computer Science student from CVSU - Imus Campus.  
+💡 I’m still improving my coding skills but I’m hardworking, passionate, and eager to grow.  
+📊 I aim to become a **data analyst** or explore related fields where I can apply what I learn.
 
-Adventure Time
-An endless runner game where the player controls a character running forward, avoiding obstacles and gaps on the path. The player earns points by successfully overcoming obstacles and progressing through the game.
+---
 
-Dcotor Booking appointment
-An application where patients can book appointments with doctors, and doctors can manage their schedules. The system streamlines the booking process to make it easier for both patients and healthcare providers.
+### 🛠️ Skills & Tools
 
-Experience
-Divimall Kawit, Cavite - May 2022 to September 2022
-- Sales Assistant, Assisted customers with their purchases, provided product information, and ensured a positive shopping experience. Maintained store organization and supported sales targets through excellent     customer service.
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🚀 Projects
+
+- **📝 What to Do?** — A note-taking app with reminders & notifications for managing tasks  
+- **🕹️ Adventure Time** — An endless runner game avoiding obstacles and earning points  
+- **🏥 Doctor Booking Appointment System** — Appointment management for doctors and patients  
+
+---
+
+### 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+📍 Cavite State University – Imus Campus  
+📅 2022 – 2025
+
+---
+
+### 💼 Experience
+
+**Sales Assistant**  
+📍 Divimall Kawit, Cavite  
+🗓️ May 2022 – September 2022  
+- Assisted customers, maintained organization, and supported store sales goals
+
+---
+
+### 📬 How to Reach Me
+
+- 📧 Email: **leorenxz.1@gmail.com**
+- 👤 Facebook: [Raphael Lagbo](https://www.facebook.com/share/1Hxm6m6JKf/)
+- 💻 GitHub: [Pokpok-Ako](https://github.com/Pokpok-Ako)
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://facebook.com/raphael%20lagbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/raphael ferrer lagbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokpok-Ako&layout=compact&theme=default" alt="Top Languages" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pokpok-Ako&show_icons=true&theme=default" alt="GitHub Stats" /></p>
+
+---
+
