@@ -94,9 +94,9 @@ Here are some of the certifications and webinars I’ve completed:
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokpok-Ako&layout=compact&theme=default" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaellagbo&layout=compact&theme=default" alt="Top Languages" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pokpok-Ako&show_icons=true&theme=default" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Raphaellagbo&show_icons=true&theme=default" alt="GitHub Stats" /></p>
 
 ---
 
