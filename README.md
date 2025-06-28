@@ -55,6 +55,7 @@ Here are some of the certifications and webinars I’ve completed:
   <img src="cert6.png" alt="Webinar 6" width="300" style="margin: 10px;"/>
   <img src="cert7.png" alt="Webinar 7" width="300" style="margin: 10px;"/>
 </p>
+
 ---
 
 ### 🎓 Education
