@@ -1,5 +1,6 @@
 Email: leorenxz.1@gmail.com
-github: Pokpok-Ako 
+github: Pokpok-Ako
+fb: Raphael Lagbo (https://www.facebook.com/share/1Hxm6m6JKf/)
 
 Summary
 I am a 3rd year Bachelor of Science in Computer Science (BSCS) student at Cavite State University - Imus Campus, 23 years old. Although I am still learning and not yet very skilled in coding, I am hardworking and dedicated to completing any tasks assigned to me. I have a basic knowledge of Excel and am eager to improve my skills further. My goal is to become a data analyst or work in any field related to my course, where I can apply and grow my knowledge.
