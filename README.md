@@ -39,6 +39,24 @@
 
 ---
 
+
+### 📜 Certificates & Webinars Attended
+
+Here are some of the certifications and webinars I’ve completed:
+
+<p align="center">
+  <img src="certificates/.jpg" alt="Webinar 1" width="300"/>
+  <img src="certificates/webinar2.jpg" alt="Webinar 2" width="300"/>
+  <img src="certificates/webinar3.jpg" alt="Webinar 3" width="300"/>
+  <img src="certificates/webinar3.jpg" alt="Webinar 3" width="300"/>
+  <img src="certificates/webinar3.jpg" alt="Webinar 3" width="300"/>
+  <img src="certificates/webinar3.jpg" alt="Webinar 3" width="300"/>
+  <img src="certificates/webinar3.jpg" alt="Webinar 3" width="300"/>
+</p>
+
+
+---
+
 ### 🎓 Education
 
 **Bachelor of Science in Computer Science**  
