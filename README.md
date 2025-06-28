@@ -45,11 +45,11 @@
 Here are some of the certifications and webinars I’ve completed:
 
 <p align="center">
-  <img src="cert1.jpg" alt="Webinar 1" width="300"/>
-  <img src="cert2.jpg" alt="Webinar 2" width="300"/>
-  <img src="cert3.jpg" alt="Webinar 3" width="300"/>
-  <img src="cert4.jpg" alt="Webinar 3" width="300"/>
-  <img src="cert5.jpg" alt="Webinar 3" width="300"/>
+  <img src="cert1.png" alt="Webinar 1" width="300"/>
+  <img src="cert2.png" alt="Webinar 2" width="300"/>
+  <img src="cert3.png" alt="Webinar 3" width="300"/>
+  <img src="cert4.png" alt="Webinar 3" width="300"/>
+  <img src="cert5.png" alt="Webinar 3" width="300"/>
   <img src="cert6.png" alt="Webinar 3" width="300"/>
   <img src="cert7.png" alt="Webinar 3" width="300"/>
 </p>
