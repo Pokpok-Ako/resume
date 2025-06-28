@@ -45,13 +45,13 @@
 Here are some of the certifications and webinars I’ve completed:
 
 <p align="center">
-  <img src="Raphael F. Lagbo (1).pdf.jpg" alt="Webinar 1" width="300"/>
-  <img src="Raphael F. Lagbo.pdf.jpg" alt="Webinar 2" width="300"/>
-  <img src="Raphael Ferrer Lagbo (1).pdf.jpg" alt="Webinar 3" width="300"/>
-  <img src="Raphael Ferrer Lagbo (2).pdf.jpg" alt="Webinar 3" width="300"/>
-  <img src="Raphael Ferrer Lagbo.pdf.jpg" alt="Webinar 3" width="300"/>
-  <img src="FEXCEL-WB-01-0079.png" alt="Webinar 3" width="300"/>
-  <img src="AEXCL-WB-01-0080.png" alt="Webinar 3" width="300"/>
+  <img src="cert1.jpg" alt="Webinar 1" width="300"/>
+  <img src="cert2.jpg" alt="Webinar 2" width="300"/>
+  <img src="cert3.jpg" alt="Webinar 3" width="300"/>
+  <img src="cert4.jpg" alt="Webinar 3" width="300"/>
+  <img src="cert5.jpg" alt="Webinar 3" width="300"/>
+  <img src="cert6.png" alt="Webinar 3" width="300"/>
+  <img src="cert7.png" alt="Webinar 3" width="300"/>
 </p>
 
 
