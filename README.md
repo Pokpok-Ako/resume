@@ -70,7 +70,7 @@ Here are some of the certifications and webinars I’ve completed:
 
 **Sales Assistant**  
 📍 Divimall Kawit, Cavite  
-🗓️ May 2022 – September 2022  
+🗓️ Apr 2022 – September 2022  
 - Assisted customers, maintained organization, and supported store sales goals
 
 ---
